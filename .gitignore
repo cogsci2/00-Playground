@@ -1,1 +1,6 @@
 .vscode/settings.json
+PyTorch/catboost_info/catboost_training.json
+PyTorch/catboost_info/learn_error.tsv
+PyTorch/catboost_info/time_left.tsv
+PyTorch/catboost_info/learn/events.out.tfevents
+PyTorch/logs.log
